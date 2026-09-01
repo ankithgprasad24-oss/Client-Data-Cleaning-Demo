@@ -1,0 +1,16 @@
+I will clean and organize messy Excel or CSV data using Python.
+
+What I can help with:
+- Removing duplicate records
+- Fixing inconsistent formatting
+- Cleaning names, cities, emails, and phone numbers
+- Handling missing values
+- Standardizing data
+- Delivering a clean CSV/Excel file
+- Providing a simple summary of the cleaning work
+
+Tools used:
+Python and Pandas
+
+Suitable for:
+Small datasets, student projects, simple business records, contact lists, and basic customer data.
